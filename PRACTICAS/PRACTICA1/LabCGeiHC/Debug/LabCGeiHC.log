@@ -1,0 +1,6 @@
+﻿  P01-318147981.cpp
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\P01-318147981.cpp(318,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\P01-318147981.cpp(327,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\P01-318147981.cpp(328,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\P01-318147981.cpp(329,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  LabCGeiHC.vcxproj -> C:\proyectosVS\VisualStudio2022\LabCGeiHC\Debug\LabCGeiHC.exe
