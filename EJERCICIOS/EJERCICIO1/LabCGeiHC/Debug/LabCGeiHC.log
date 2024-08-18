@@ -1,0 +1,7 @@
+﻿  E01-318147981.cpp
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\E01-318147981.cpp(178,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\E01-318147981.cpp(186,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\E01-318147981.cpp(187,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\proyectosVS\VisualStudio2022\LabCGeiHC\LabCGeiHC\E01-318147981.cpp(188,14): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  LabCGeiHC.vcxproj -> C:\proyectosVS\VisualStudio2022\LabCGeiHC\Debug\LabCGeiHC.exe
