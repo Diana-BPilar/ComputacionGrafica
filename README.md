@@ -1,7 +1,10 @@
 # COMPUTACIÓN GRÁFICA
 
-**Universidad Nacional Autónoma de México**
-**Facultad de Ingeniería**
+**UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO**
+
+**FACULTAD DE INGENIERÍA**
+
+
 
 **NOMBRE COMPLETO**: BARRAGÁN PILAR DIANA 
 
