@@ -1,4 +1,4 @@
-#COMPUTACIÓN GRÁFICA
+# COMPUTACIÓN GRÁFICA
 
 **Universidad Nacional Autónoma de México**
 **Facultad de Ingeniería**
