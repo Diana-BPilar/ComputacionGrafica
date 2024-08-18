@@ -1,6 +1,6 @@
 #COMPUTACIÓN GRÁFICA
-**Universidad Nacional Autónoma de México
-**
+
+**Universidad Nacional Autónoma de México**
 **Facultad de Ingeniería**
 
 **NOMBRE COMPLETO**: BARRAGÁN PILAR DIANA 
