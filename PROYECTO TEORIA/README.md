@@ -1,5 +1,5 @@
 Proyecto Final.<BR>
-Alumno: Uriarte Ortiz Enrique Yahir.<BR>
+Alumno: Barragán Pilar Diana.<BR>
 Computación Gráfica e Interacción Humano Computadora.<BR>
 Grupo 02.<BR>
 Semestre 2025-1.<BR><BR>
